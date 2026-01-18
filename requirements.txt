@@ -1,0 +1,5 @@
+bleak
+flask
+cryptography
+xiaomi-ble
+bluetooth-sensor-state-data
